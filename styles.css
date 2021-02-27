@@ -1,0 +1,28 @@
+body{background: #FFFFE3}
+
+h1{ text-align: center; font-family: futura; font-size: 50px; color: gold}
+
+h2{ text-align: center; font-family: futura }
+
+
+p{ text-align: center; font-family: futura; font-size: 18px; color: #28DF39}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+a{ font-family: futura; font-size: 24px; color: #059CE7; text-decoration: ;}
+
+a:active{color: #F62D2D}
+
+a:hover{color: #ADE2FF}
+
